@@ -52,4 +52,5 @@ int main() {
             std::cout << "Please enter a number ranging only from 1-6.";
     }
     std::cout << "The result is " << result << ".";
+    return 0;
 }
