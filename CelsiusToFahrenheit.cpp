@@ -10,6 +10,5 @@ int main() {
     std::cin >> tempInCelsius; // assigning the user's response to tempInCelsius
 
     tempInFahrenheit = tempInCelsius * 9 / 5 + 32; // computing the temperature in Fahrenheit
-
-    std::cout << "The temperature in Fahrenheit is " << tempInFahrenheit << ".";
+    std::cout << "The temperature in Fahrenheit is " << tempInFahrenheit << "."
 }
